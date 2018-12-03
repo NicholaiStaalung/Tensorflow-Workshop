@@ -1,4 +1,4 @@
-### VIRTUAL ENVIRONMENT ###
+### SET UP A VIRTUAL ENVIRONMENT ###
 
 #### Install virtual environment
 ```$ pip3 install virtualenv``` 
