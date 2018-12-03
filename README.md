@@ -1,9 +1,9 @@
 ### SET UP A VIRTUAL ENVIRONMENT ###
 
-#### Install virtual environment in the Tensorflow-Workshop folder
+#### Install virtual environment
 ```$ pip3 install virtualenv``` 
 
-#### Set up a virtual environment with python 
+#### Set up a virtual environment with python in the Tensorflow-Workshop directory 
 ```$ python3 -m virtualenv TF-WorkshopVE```
 
 
