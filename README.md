@@ -15,7 +15,12 @@
 ```.\TF-WorkshopVE\Scripts\activate```
 
 #### Update pip
+
+##### Mac and Linux
 ```$ pip3 install --upgrade pip```
+
+##### Windows 
+```python3 -m pip install --upgrade pip```
 
 #### Install dependencies
 ```$ pip3 install -r requirements.txt```
