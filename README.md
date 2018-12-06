@@ -1,3 +1,5 @@
+### In order to run this notebook you need Python3 and Git installed locally
+
 ### SET UP A VIRTUAL ENVIRONMENT ###
 
 #### Install virtual environment
